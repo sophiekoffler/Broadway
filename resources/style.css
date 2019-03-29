@@ -1,6 +1,10 @@
 body {font-family: Helvetica; text-align: center;}
-h1 {font-size: 70px;font-weight: bold; }
-#Home,#b {background-image: url("./the-flatiron-building.png");}
+h1 {font-size: 70px;font-weight: bold;color:white; }
+#designed {color:white;}
+#Home,#b {background-image: url("./the-flatiron-building.png");
+          background-size:cover;
+          background-repeat: no-repeat;
+          background-position-x:right;}
 p a, footer a {font-size: 18px; color: white;}
 #process {font-size: 32px; font-weight: bold;}
 h3 {font-size: 23px; font-weight: bold;}
